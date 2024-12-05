@@ -3,11 +3,11 @@ I always wanted my cells to appear in the cell stage. Well your in luck because 
 
 Features
 
-They all act differently depending on the level they spawn.
+All cells act differently depending on the level they spawn in.
 Each game spawn's different cells.
 The cells don't drop loot to keep the game balanced.
 There are 5 personalities a cell can have.
-It doesn't yet support cells made with the secret cell editor
+It doesn't yet support cells made with the secret cell editor.
 
 
 Installing
