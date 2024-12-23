@@ -31,3 +31,4 @@ Version history
 0.1.1 Created the mod.
 0.1.2 Minor bug fixes.
 0.2.1 New ai structure.
+0.3.1 Lots of bug fixes and new features.
